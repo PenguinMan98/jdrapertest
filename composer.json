@@ -1,0 +1,15 @@
+{
+    "name": "jbroderick/jdrapertest",
+    "description": "This is a sample app for jdraper",
+    "require": {
+        "silex/silex": "~1.2",
+        "twig/twig": "~1.18",
+        "symfony/twig-bridge": "~2.6"
+    },
+    "authors": [
+        {
+            "name": "Joseph Broderick",
+            "email": "penguinman98@usa.net"
+        }
+    ]
+}
